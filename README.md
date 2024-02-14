@@ -1,5 +1,4 @@
-# 🔍 Reasonable Publisher, reasonNa
-
+# 🔍 Reasonable Publisher
 ## 🤍 About Me
 
 - 👋 Hi, I’m @reasonNa-IT
