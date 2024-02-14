@@ -1,6 +1,4 @@
-# REASONABLE PUBLISHER
-
-이유있는 퍼블리셔
+# Reasonable Publisher 
 
 
 - 👋 Hi, I’m @reasonNa-IT
