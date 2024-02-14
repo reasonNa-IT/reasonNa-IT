@@ -1,6 +1,6 @@
 # 🔍 Reasonable Publisher 
 
-### About Me
+### 🤍 About Me
 
 - 👋 Hi, I’m @reasonNa-IT
 - 👀 I’m interested in ...
@@ -11,11 +11,11 @@
 - ⚡ Fun fact: ...
 
 
-### Skills
+### 🤍 Skills
 
-#### Develop
+#### 🖥️ Develop
 
-#### Graphic Design
+#### 🎨 Graphic Design
 <!---
 reasonNa-IT/reasonNa-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
